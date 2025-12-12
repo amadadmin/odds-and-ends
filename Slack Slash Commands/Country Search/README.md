@@ -203,7 +203,7 @@ Redeploy
 If you get "dispatch_failed":
 
 Make sure your Cloud Function URL is correct in the Slack slash command settings
-Make sure "Allow unauthenticated invocations" is checked on your Cloud Function
+Make sure "Allow unauthenticated invocations" is un-checked on your Cloud Function
 
 If you get no response:
 
